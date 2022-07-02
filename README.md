@@ -1,20 +1,20 @@
-**JavaScript Challenge: Password Generator
+**JavaScript Challenge: Password Generator**
 
 [Click me to luanch](https://aaronliuxm.github.io/Password-generator/)
 
 ![passwordSS](https://user-images.githubusercontent.com/104994115/176980130-5efae2a4-d626-4806-b34a-11e17a13d806.PNG)
 
 
-**User Story
+**User Story**
 
 AS AN employee with access to sensitive data
 I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 
-**Acceptance Criteria
+**Acceptance Criteria**
 
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
+/GIVEN I need a new, secure password*/
+/WHEN I click the button to generate a password*/
 THEN I am presented with a series of prompts for password criteria
 WHEN prompted for password criteria
 THEN I select which criteria to include in the password
