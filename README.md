@@ -1,5 +1,10 @@
 JavaScript Challenge: Password Generator
 
+
+
+![passwordSS](https://user-images.githubusercontent.com/104994115/176980130-5efae2a4-d626-4806-b34a-11e17a13d806.PNG)
+[Click me to luanch](https://aaronliuxm.github.io/Password-generator/)
+
 User Story
 
 AS AN employee with access to sensitive data
